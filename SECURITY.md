@@ -8,7 +8,7 @@ If you believe you have found a security vulnerability in any AElfProject-owned 
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-Instead, please report them to us through our [contact form](https://wkf.ms/3Mbxauz).
+Instead, please report them to us through our [contact form](https://form.aelf.com/contact).
 
 Please include the requested information listed below (as much as you can provide) to help us better understand the nature and scope of the possible issue:
 
