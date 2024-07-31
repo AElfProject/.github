@@ -2,7 +2,7 @@
 
 ### Introduction
 
-aelf is a high-performance, cloud-native, layer-1 blockchain network with its Mainnet nodes running on different cloud-computing data centers. It provides a high-speed running environment for smart contracts and enables the execution of contracts in parallel and smart contract microservitization running on server clusters. Its MainChain and multi-SideChains architecture supports efficient indexing within the network and guarantees almost unlimited scalability. The built-in cross-chain design facilitates ultra-fast interaction of data. The innovative hybrid of shared SideChain and exclusive SideChain greatly lowers the cost for developers and users and further enhances the overall network performance.
+aelf, an AI-enhanced Layer 1 blockchain network, leverages the robust C# programming language for efficiency and scalability across its sophisticated multi-layered architecture. Founded in 2017 with its global hub in Singapore, aelf is a pioneer in the industry, leading Asia in evolving blockchain with state-of-the-art AI integration and modular Layer 2 ZK Rollup technology, ensuring an efficient, low-cost, and highly secure platform that is both developer and end-user friendly. Aligned with its progressive vision, aelf is committed to fostering innovation within its ecosystem and advancing Web3 and AI technology adoption. For more information about aelf, please refer to our [Whitepaper V2.0](https://docs.aelf.com/resources/whitepaper-2/).
 
 ### Top Repos
 
