@@ -6,7 +6,7 @@ aelf, an AI-enhanced Layer 1 blockchain network, leverages the robust C# program
 
 ### Top Repos
 
-- [AElf](https://github.com/AElfProject/AElf) - A scalable cloud computing blockchain platform
+- [AElf](https://github.com/AElfProject/AElf) - An AI-enhanced cloud-native layer-1 blockchain network.
 
 ### Web
 
