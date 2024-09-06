@@ -32,10 +32,10 @@
 
 ### 💻 CLI
 
-| Name         | Description                           | Repo                                                                    | Latest Release |
-| ------------ | ------------------------------------- | ----------------------------------------------------------------------- | -------------- |
-| aelf-command | CLI implementation in NodeJS          | [AElfProject/aelf-command](https://github.com/AElfProject/aelf-command) | ➖             |
-| aelf-deploy  | C# CLI to deploy aelf smart contracts | [AElfProject/aelf-deploy](https://github.com/AElfProject/aelf-deploy)   | ➖             |
+| Name         | Description                           | Repo                                                                    | Latest Release                                                                                                                                     |
+| ------------ | ------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| aelf-command | CLI implementation in NodeJS          | [AElfProject/aelf-command](https://github.com/AElfProject/aelf-command) | [![Latest Release](https://img.shields.io/github/v/release/aelfproject/aelf-command?label=)](https://github.com/AElfProject/aelf-command/releases) |
+| aelf-deploy  | C# CLI to deploy aelf smart contracts | [AElfProject/aelf-deploy](https://github.com/AElfProject/aelf-deploy)   | ➖                                                                                                                                                 |
 
 ### 🔑 Wallet
 
