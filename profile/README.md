@@ -6,18 +6,18 @@
 >
 > **Get involved!** 👉 contribute to one of the essential developer repositories listed below 🙏
 
-<img src="https://github.com/AElfProject/.github/blob/master/profile/aelf-platform-diagram.png?raw=true" style="width: 900"/>
+<img src="https://github.com/AElfProject/.github/blob/master/profile/aelf-platform-diagram.png?raw=true" width="900"/>
 
 ---
 
 ### 📝 Docs
 
-<table style="width: 100%">
+<table width="100%">
   <thead>
     <tr>
-      <th style="width: 25%">Website</th>
-      <th style="width: 25%">Description</th>
-      <th style="width: 25%">Repo</th>
+      <th width="154px">Website</th>
+      <th width="300px">Description</th>
+      <th width="200px">Repo</th>
     </tr>
   </thead>
   <tbody>
@@ -33,13 +33,13 @@
 
 ### ⛓️ Protocol
 
-<table style="width: 100%">
+<table width="100%">
   <thead>
     <tr>
-      <th style="width: 25%">Name</th>
-      <th style="width: 25%">Description</th>
-      <th style="width: 25%">Repo</th>
-      <th style="width: 25%">Latest Release</th>
+      <th width="154px">Name</th>
+      <th width="300px">Description</th>
+      <th width="200px">Repo</th>
+      <th>Latest Release</th>
     </tr>
   </thead>
   <tbody>
@@ -56,13 +56,13 @@
 
 ### 🛠️ Dev Tools
 
-<table style="width: 100%">
+<table width="100%">
   <thead>
     <tr>
-      <th style="width: 25%">Name</th>
-      <th style="width: 25%">Description</th>
-      <th style="width: 25%">Repo</th>
-      <th style="width: 25%">Latest Release</th>
+      <th width="154px">Name</th>
+      <th width="300px">Description</th>
+      <th width="200px">Repo</th>
+      <th>Latest Release</th>
     </tr>
   </thead>
   <tbody>
@@ -77,13 +77,13 @@
 
 ### 💻 CLI
 
-<table style="width: 100%">
+<table width="100%">
   <thead>
     <tr>
-      <th style="width: 25%">Name</th>
-      <th style="width: 25%">Description</th>
-      <th style="width: 25%">Repo</th>
-      <th style="width: 25%">Latest Release</th>
+      <th width="154px">Name</th>
+      <th width="300px">Description</th>
+      <th width="200px">Repo</th>
+      <th>Latest Release</th>
     </tr>
   </thead>
   <tbody>
@@ -104,13 +104,13 @@
 
 <h3>🔑 Wallet</h3>
 
-<table style="width: 100%">
+<table width="100%">
   <thead>
     <tr>
-      <th style="width: 25%">Name</th>
-      <th style="width: 25%">Description</th>
-      <th style="width: 25%">Repo</th>
-      <th style="width: 25%">Latest Release</th>
+      <th width="154px">Name</th>
+      <th width="300px">Description</th>
+      <th width="200px">Repo</th>
+      <th>Latest Release</th>
     </tr>
   </thead>
   <tbody>
@@ -131,13 +131,13 @@
 
 <h3>🔌 API</h3>
 
-<table style="width: 100%">
+<table width="100%">
   <thead>
     <tr>
-      <th style="width: 25%">Name</th>
-      <th style="width: 25%">Description</th>
-      <th style="width: 25%">Repo</th>
-      <th style="width: 25%">Latest Release</th>
+      <th width="154px">Name</th>
+      <th width="300px">Description</th>
+      <th width="200px">Repo</th>
+      <th>Latest Release</th>
     </tr>
   </thead>
   <tbody>
@@ -182,13 +182,13 @@
 
 ### 📝 Smart Contracts
 
-<table style="width: 100%">
+<table width="100%">
   <thead>
     <tr>
-      <th style="width: 25%">Name</th>
-      <th style="width: 25%">Description</th>
-      <th style="width: 25%">Repo</th>
-      <th style="width: 25%">Latest Release</th>
+      <th width="154px">Name</th>
+      <th width="300px">Description</th>
+      <th width="200px">Repo</th>
+      <th>Latest Release</th>
     </tr>
   </thead>
   <tbody>
@@ -203,13 +203,13 @@
 
 <h3>🧪 Testing</h3>
 
-<table style="width: 100%">
+<table width="100%">
   <thead>
     <tr>
-      <th style="width: 25%">Name</th>
-      <th style="width: 25%">Description</th>
-      <th style="width: 25%">Repo</th>
-      <th style="width: 25%">Latest Release</th>
+      <th width="154px">Name</th>
+      <th width="300px">Description</th>
+      <th width="200px">Repo</th>
+      <th>Latest Release</th>
     </tr>
   </thead>
   <tbody>
@@ -224,13 +224,13 @@
 
 ### 🔎 Blockchain Data Indexing
 
-<table style="width: 100%">
+<table width="100%">
   <thead>
     <tr>
-      <th style="width: 25%">Name</th>
-      <th style="width: 25%">Description</th>
-      <th style="width: 25%">Repo</th>
-      <th style="width: 25%">Latest Release</th>
+      <th width="154px">Name</th>
+      <th width="300px">Description</th>
+      <th width="200px">Repo</th>
+      <th>Latest Release</th>
     </tr>
   </thead>
   <tbody>
