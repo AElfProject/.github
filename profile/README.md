@@ -33,57 +33,212 @@
 
 ### ⛓️ Protocol
 
-| Name | Description                                            | Repo                                                    | Latest Release                                                                                                                     |
-| ---- | ------------------------------------------------------ | ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| AElf | An AI-enhanced cloud-native layer-1 blockchain network | [AElfProject/AElf](https://github.com/AElfProject/AElf) | [![Latest Release](https://img.shields.io/github/v/release/aelfproject/aelf?label=)](https://github.com/AElfProject/AElf/releases) |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="25%">Name</th>
+      <th width="25%">Description</th>
+      <th width="25%">Repo</th>
+      <th width="25%">Latest Release</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>AElf</td>
+      <td>An AI-enhanced cloud-native layer-1 blockchain network</td>
+      <td><a href="https://github.com/AElfProject/AElf">AElfProject/AElf</a></td>
+      <td><a href="https://github.com/AElfProject/AElf/releases"><img src="https://img.shields.io/github/v/release/aelfproject/aelf?label=" alt="Latest Release"></a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ### 🛠️ Dev Tools
 
-| Name            | Description                                                                        | Repo                                                                                    | Latest Release |
-| --------------- | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------------- |
-| aelf Playground | An online playground to develop and deploy smart contracts on the aelf blockchain. | [AElfProject/aelf-playground-next](https://github.com/AElfProject/aelf-playground-next) | ➖             |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="25%">Name</th>
+      <th width="25%">Description</th>
+      <th width="25%">Repo</th>
+      <th width="25%">Latest Release</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>aelf Playground</td>
+      <td>An online playground to develop and deploy smart contracts on the aelf blockchain.</td>
+      <td><a href="https://github.com/AElfProject/aelf-playground-next">AElfProject/aelf-playground-next</a></td>
+      <td>➖</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 💻 CLI
 
-| Name         | Description                           | Repo                                                                    | Latest Release                                                                                                                                     |
-| ------------ | ------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| aelf-command | CLI implementation in NodeJS          | [AElfProject/aelf-command](https://github.com/AElfProject/aelf-command) | [![Latest Release](https://img.shields.io/github/v/release/aelfproject/aelf-command?label=)](https://github.com/AElfProject/aelf-command/releases) |
-| aelf-deploy  | C# CLI to deploy aelf smart contracts | [AElfProject/aelf-deploy](https://github.com/AElfProject/aelf-deploy)   | ➖                                                                                                                                                 |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="25%">Name</th>
+      <th width="25%">Description</th>
+      <th width="25%">Repo</th>
+      <th width="25%">Latest Release</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>aelf-command</td>
+      <td>CLI implementation in NodeJS</td>
+      <td><a href="https://github.com/AElfProject/aelf-command">AElfProject/aelf-command</a></td>
+      <td><a href="https://github.com/AElfProject/aelf-command/releases"><img src="https://img.shields.io/github/v/release/aelfproject/aelf-command?label=" alt="Latest Release" /></a></td>
+    </tr>
+    <tr>
+      <td>aelf-deploy</td>
+      <td>C# CLI to deploy aelf smart contracts</td>
+      <td><a href="https://github.com/AElfProject/aelf-deploy">AElfProject/aelf-deploy</a></td>
+      <td>➖</td>
+    </tr>
+  </tbody>
+</table>
 
-### 🔑 Wallet
+<h3>🔑 Wallet</h3>
 
-| Name           | Description                                                           | Repo                                                                              | Latest Release                                                                                                                                               |
-| -------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| aelf-web-login | Modular React wallet collection and components for aelf applications. | [AElfProject/aelf-web-login](https://github.com/AElfProject/aelf-web-login)       | ➖                                                                                                                                                           |
-| Portkey        | Your first AA wallet for Web2 to Web3 migration                       | [Portkey-Wallet/portkey-wallet](https://github.com/Portkey-Wallet/portkey-wallet) | [![Latest Release](https://img.shields.io/github/v/release/Portkey-Wallet/portkey-wallet?label=)](https://github.com/Portkey-Wallet/portkey-wallet/releases) |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="25%">Name</th>
+      <th width="25%">Description</th>
+      <th width="25%">Repo</th>
+      <th width="25%">Latest Release</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>aelf-web-login</td>
+      <td>Modular React wallet collection and components for aelf applications.</td>
+      <td><a href="https://github.com/AElfProject/aelf-web-login">AElfProject/aelf-web-login</a></td>
+      <td>➖</td>
+    </tr>
+    <tr>
+      <td>Portkey</td>
+      <td>Your first AA wallet for Web2 to Web3 migration</td>
+      <td><a href="https://github.com/Portkey-Wallet/portkey-wallet">Portkey-Wallet/portkey-wallet</a></td>
+      <td><a href="https://github.com/Portkey-Wallet/portkey-wallet/releases"><img src="https://img.shields.io/github/v/release/Portkey-Wallet/portkey-wallet?label=" alt="Latest Release" /></a></td>
+    </tr>
+  </tbody>
+</table>
 
-### 🔌 API
+<h3>🔌 API</h3>
 
-| Name          | Description         | Repo                                                                      | Latest Release                                                                                                                                       |
-| ------------- | ------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| aelf-sdk.js   | aelf JavaScript SDK | [AElfProject/aelf-web3.js](https://github.com/AElfProject/aelf-web3.js)   | [![Latest Release](https://img.shields.io/github/v/release/AElfProject/aelf-web3.js?label=)](https://github.com/AElfProject/aelf-web3.js/releases)   |
-| aelf-sdk.cs   | aelf Dotnet SDK     | [AElfProject/aelf-sdk.cs](https://github.com/AElfProject/aelf-sdk.cs)     | [![Latest Release](https://img.shields.io/github/v/release/AElfProject/aelf-sdk.cs?label=)](https://github.com/AElfProject/aelf-sdk.cs/releases)     |
-| aelf-sdk.go   | aelf Go SDK         | [AElfProject/aelf-sdk.go](https://github.com/AElfProject/aelf-sdk.go)     | [![Latest Release](https://img.shields.io/github/v/release/AElfProject/aelf-sdk.go?label=)](https://github.com/AElfProject/aelf-sdk.go/releases)     |
-| aelf-sdk.java | aelf Java SDK       | [AElfProject/aelf-sdk.java](https://github.com/AElfProject/aelf-sdk.java) | [![Latest Release](https://img.shields.io/github/v/release/AElfProject/aelf-sdk.java?label=)](https://github.com/AElfProject/aelf-sdk.java/releases) |
-| aelf-sdk.php  | aelf PHP SDK        | [AElfProject/aelf-sdk.php](https://github.com/AElfProject/aelf-sdk.php)   | [![Latest Release](https://img.shields.io/github/v/release/AElfProject/aelf-sdk.php?label=)](https://github.com/AElfProject/aelf-sdk.php/releases)   |
-| aelf-sdk.py   | aelf Python SDK     | [AElfProject/aelf-sdk.py](https://github.com/AElfProject/aelf-sdk.py)     | [![Latest Release](https://img.shields.io/github/v/release/AElfProject/aelf-sdk.py?label=)](https://github.com/AElfProject/aelf-sdk.py/releases)     |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="25%">Name</th>
+      <th width="25%">Description</th>
+      <th width="25%">Repo</th>
+      <th width="25%">Latest Release</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>aelf-sdk.js</td>
+      <td>aelf JavaScript SDK</td>
+      <td><a href="https://github.com/AElfProject/aelf-web3.js">AElfProject/aelf-web3.js</a></td>
+      <td><a href="https://github.com/AElfProject/aelf-web3.js/releases"><img src="https://img.shields.io/github/v/release/AElfProject/aelf-web3.js?label=" alt="Latest Release" /></a></td>
+    </tr>
+    <tr>
+      <td>aelf-sdk.cs</td>
+      <td>aelf Dotnet SDK</td>
+      <td><a href="https://github.com/AElfProject/aelf-sdk.cs">AElfProject/aelf-sdk.cs</a></td>
+      <td><a href="https://github.com/AElfProject/aelf-sdk.cs/releases"><img src="https://img.shields.io/github/v/release/AElfProject/aelf-sdk.cs?label=" alt="Latest Release" /></a></td>
+    </tr>
+    <tr>
+      <td>aelf-sdk.go</td>
+      <td>aelf Go SDK</td>
+      <td><a href="https://github.com/AElfProject/aelf-sdk.go">AElfProject/aelf-sdk.go</a></td>
+      <td><a href="https://github.com/AElfProject/aelf-sdk.go/releases"><img src="https://img.shields.io/github/v/release/AElfProject/aelf-sdk.go?label=" alt="Latest Release" /></a></td>
+    </tr>
+    <tr>
+      <td>aelf-sdk.java</td>
+      <td>aelf Java SDK</td>
+      <td><a href="https://github.com/AElfProject/aelf-sdk.java">AElfProject/aelf-sdk.java</a></td>
+      <td><a href="https://github.com/AElfProject/aelf-sdk.java/releases"><img src="https://img.shields.io/github/v/release/AElfProject/aelf-sdk.java?label=" alt="Latest Release" /></a></td>
+    </tr>
+    <tr>
+      <td>aelf-sdk.php</td>
+      <td>aelf PHP SDK</td>
+      <td><a href="https://github.com/AElfProject/aelf-sdk.php">AElfProject/aelf-sdk.php</a></td>
+      <td><a href="https://github.com/AElfProject/aelf-sdk.php/releases"><img src="https://img.shields.io/github/v/release/AElfProject/aelf-sdk.php?label=" alt="Latest Release" /></a></td>
+    </tr>
+    <tr>
+      <td>aelf-sdk.py</td>
+      <td>aelf Python SDK</td>
+      <td><a href="https://github.com/AElfProject/aelf-sdk.py">AElfProject/aelf-sdk.py</a></td>
+      <td><a href="https://github.com/AElfProject/aelf-sdk.py/releases"><img src="https://img.shields.io/github/v/release/AElfProject/aelf-sdk.py?label=" alt="Latest Release" /></a></td>
+    </tr>
+  </tbody>
+</table>
 
 ### 📝 Smart Contracts
 
-| Name               | Description             | Repo                                                                                    | Latest Release                                                                                                                                                     |
-| ------------------ | ----------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Contract Templates | aelf Contract Templates | [AElfProject/aelf-developer-tools](https://github.com/AElfProject/aelf-developer-tools) | [![Latest Release](https://img.shields.io/github/v/release/AElfProject/aelf-developer-tools?label=)](https://github.com/AElfProject/aelf-developer-tools/releases) |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="25%">Name</th>
+      <th width="25%">Description</th>
+      <th width="25%">Repo</th>
+      <th width="25%">Latest Release</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Contract Templates</td>
+      <td>aelf Contract Templates</td>
+      <td><a href="https://github.com/AElfProject/aelf-developer-tools">AElfProject/aelf-developer-tools</a></td>
+      <td><a href="https://github.com/AElfProject/aelf-developer-tools/releases"><img src="https://img.shields.io/github/v/release/AElfProject/aelf-developer-tools?label=" alt="Latest Release" /></a></td>
+    </tr>
+  </tbody>
+</table>
 
-### 🧪 Testing
+<h3>🧪 Testing</h3>
 
-| Name            | Description                                                                        | Repo                                                                                    | Latest Release |
-| --------------- | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------------- |
-| aelf Playground | An online playground to develop and deploy smart contracts on the aelf blockchain. | [AElfProject/aelf-playground-next](https://github.com/AElfProject/aelf-playground-next) | ➖             |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="25%">Name</th>
+      <th width="25%">Description</th>
+      <th width="25%">Repo</th>
+      <th width="25%">Latest Release</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>aelf Playground</td>
+      <td>An online playground to develop and deploy smart contracts on the aelf blockchain.</td>
+      <td><a href="https://github.com/AElfProject/aelf-playground-next">AElfProject/aelf-playground-next</a></td>
+      <td>➖</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 🔎 Blockchain Data Indexing
 
-| Name      | Description    | Repo                                                                            | Latest Release                                                                                                                                             |
-| --------- | -------------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| aelf Scan | Block Explorer | [AelfScanProject/aelfscan-web](https://github.com/AelfScanProject/aelfscan-web) | [![Latest Release](https://img.shields.io/github/v/release/AelfScanProject/aelfscan-web?label=)](https://github.com/AelfScanProject/aelfscan-web/releases) |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="25%">Name</th>
+      <th width="25%">Description</th>
+      <th width="25%">Repo</th>
+      <th width="25%">Latest Release</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>aelf Scan</td>
+      <td>Block Explorer</td>
+      <td><a href="https://github.com/AelfScanProject/aelfscan-web">AelfScanProject/aelfscan-web</a></td>
+      <td><a href="https://github.com/AelfScanProject/aelfscan-web/releases"><img src="https://img.shields.io/github/v/release/AelfScanProject/aelfscan-web?label=" alt="Latest Release" /></a></td>
+    </tr>
+  </tbody>
+</table>
