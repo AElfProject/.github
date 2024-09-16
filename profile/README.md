@@ -12,9 +12,22 @@
 
 ### 📝 Docs
 
-| Website                                | Description                  | Repo                                                              |
-| -------------------------------------- | ---------------------------- | ----------------------------------------------------------------- |
-| [docs.aelf.com](https://docs.aelf.com) | aelf Developer Documentation | [AElfProject/aelf-docs](https://github.com/AElfProject/aelf-docs) |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="25%">Website</th>
+      <th width="25%">Description</th>
+      <th width="25%">Repo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://docs.aelf.com">docs.aelf.com</a></td>
+      <td>aelf Developer Documentation</td>
+      <td><a href="https://github.com/AElfProject/aelf-docs">AElfProject/aelf-docs</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
