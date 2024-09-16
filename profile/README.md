@@ -6,6 +6,8 @@
 >
 > **Get involved!** 👉 contribute to one of the essential developer repositories listed below 🙏
 
+<img src="https://github.com/AElfProject/.github/blob/master/profile/aelf-platform-diagram.png?raw=true" width="900"/>
+
 ---
 
 ### 📝 Docs
